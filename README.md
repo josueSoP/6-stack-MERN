@@ -8,9 +8,11 @@ Clonar o bajar repositorio e instalar las dependencias
     npm i nodemon -d
 
 -Frontend:
+    
     `npx create-react-app frontend` (este comando nos creara nuestro backend por default, solo haria falta crear los siguientes 3 modulos)
     
     npm i axios bootstrap timeago.js
+O en caso de ya contar con esta carpeta instalar los 3 modulos anteriores y los siguientes:
     
     npm i react react-datepicker react-dom react-router-dom react-scripts
 
