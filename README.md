@@ -1,13 +1,15 @@
 ## Pasos a seguir
 
-Clonar o bajar repositorio e instalar las dependencias
+##1. Clonar o bajar repositorio
 
-# -backend:
+##2. Instalar las dependencias
+
+ -backend:
     
     npm i cors dotenv express mongoose
     npm i nodemon -d
 
-# -Frontend:
+ -Frontend:
 
 `npx create-react-app frontend` (este comando nos creara nuestro backend por default, solo haria falta crear los siguientes 3 modulos)
     
