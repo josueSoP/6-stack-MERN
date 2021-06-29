@@ -1,8 +1,8 @@
 ## Pasos a seguir
 
-##1. Clonar o bajar repositorio
+## 1. Clonar o bajar repositorio
 
-##2. Instalar las dependencias
+## 2. Instalar las dependencias
 
  -backend:
     
@@ -18,6 +18,7 @@ O en caso de ya contar con la carpeta Frontend instalar los 3 modulos anteriores
     
     npm i react react-datepicker react-dom react-router-dom react-scripts
 
+## 3. Correr nuestro programa
 Para correr el backend se debera de usar en una terminal:
 ### `npm run dev`
 http://localhost:4000/api/notes
