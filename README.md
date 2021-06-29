@@ -1,4 +1,4 @@
-## Pasos a seguir
+### Pasos a seguir
 
 ## 1. Clonar o bajar repositorio
 
